@@ -36,7 +36,7 @@ namespace mayores100
                 }
 
             }
-            Console.Write("la cantidad de elementos mayores a 100 son:" + cant);
+            Console.Write("la cantidad de elementos mayores a cien son:" + cant);
             Console.ReadKey();
 
         }
